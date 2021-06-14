@@ -1,0 +1,6 @@
+Creado por Bryan Andres Ariza Ramirez
+Tecnologo en sistemas de informacion.
+Version 1.0 Beta
+Programa elaborado por medio del lenguaje JAVA utilizando interfaz Jframe, orientada a objetos. 
+El programa control de productos tiene un manejo el cual se realiza un registro de investigador cuya persona debe de ingresar los datos  personales, luego de realizar el registro puede buscar a otro investigador registrado o buscarse asi mismo. 
+
